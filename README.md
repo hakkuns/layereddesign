@@ -179,3 +179,6 @@ class OrderApplicationService {
   }
 }
 ```
+https://claude.ai/public/artifacts/30fd9651-fd13-47e0-96c2-18dc3a78795c
+
+https://claude.ai/public/artifacts/84bcd408-c056-4130-bffc-396beddf461c
